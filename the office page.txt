@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>your office</title>
+<link rel="icon" type="image/x-icon" href="project.png">
+</head>
+<body style="background-color:#d1bea8;font-family:Broadway;color:#003153 ;">
+<h1 style="text-align:center;font-size:300%;">your office</h1>
+<center>
+<a href="michel.html">
+<img src="th.jpeg" title="world's best boss"/>
+<p>world's best boss</p>
+</a>
+
+<br><br>
+
+<a href="j&m.html">
+<img src="jp.jpeg" title="jim & pam"/>
+<p>jim & pam</p>
+</a>
+
+<br><br>
+
+<a href="pranks.html">
+<img src="p.jpeg" title="pranks"/>
+<p>pranks</p>
+</a>
+
+<br><br>
+
+<a href="deleted scenes.html">
+<img src="d.jpeg" title="deleted scenes"/>
+<p>deleted scenes</p>
+<br><br>
+</a>
+
+</center>
+
+</body>
+</html>

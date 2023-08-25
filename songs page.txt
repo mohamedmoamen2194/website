@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>song for you</title>
+<link rel="icon" type="image/x-icon" href="project.png">
+</head>
+<body style="background-image: url('bk.jpg');font-family:Broadway;color:#003153 ;">
+<center>
+ <iframe src="https://widget.anghami.com/song/59695519/?theme=fulldark&layout=wide&lang=en" scrolling="no" frameborder="0" width=600 height=190 ></iframe>
+<br><br><br>
+ <iframe src="https://widget.anghami.com/song/80632417/?theme=fulldark&layout=wide&lang=en" scrolling="no" frameborder="0" width=600 height=190 ></iframe>
+<br><br><br>
+ <iframe src="https://widget.anghami.com/song/31351967/?theme=fulldark&layout=wide&lang=en" scrolling="no" frameborder="0" width=600 height=190 ></iframe>
+<br><br><br>
+ <iframe src="https://widget.anghami.com/song/22095331/?theme=fulldark&layout=wide&lang=en" scrolling="no" frameborder="0" width=600 height=190 ></iframe>
+    
+</center>
+</body>
+</html>
