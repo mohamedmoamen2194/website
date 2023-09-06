@@ -17,11 +17,8 @@
 &emsp;
 <a href="the office page.html">
 <img src="the office.png" alt="songs" title="the office" style="width:100;height:100;"/>
-
 </a>
-
 &emsp;
-
 <a href="catgpt.html">
 <img src="meow.png" alt="meow" title="meow" style="width:354px;height:345px;"/>
 </center>
