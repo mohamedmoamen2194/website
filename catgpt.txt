@@ -1,36 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
-}
-
-.responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 100%;
-  height: 100%;
-  border: none;
-}
-</style>
 <title>meow</title>
 <link rel="icon" type="image/x-icon" href="project.png">
 </head>
 <body style="background-color:#1b2232;font-family:Broadway;color:#ffffff ;">
 <h1 style="text-align:center;font-size:300%;">meow</h1>
-<div class="container"> 
 <center>
 <iframe src="https://www.cat-gpt.com/chat/furr" style="border:none;" height="560" width="500" title="meow"></iframe>
 </center>
-</div>
+
 
 </body>
 </html>
